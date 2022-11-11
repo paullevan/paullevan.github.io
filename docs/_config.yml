@@ -29,7 +29,6 @@ title: Personal Website of Paul LeVan
 #github_username:  jekyll
 
 # Build settings
-#theme: minima
 theme: minima
 #remote_theme: pages-themes/cayman@v0.2.0
 plugins:
